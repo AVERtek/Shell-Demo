@@ -1,0 +1,19 @@
+#title: AVERtek # your name photo (or website title) here
+logo1: "images/aquis logo-K18 a200.png? raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <h1 style="text-align: center;" markdown="1"><b>COMING SOON</h1></b></a> 
+  <h1 style="text-align: center;" markdown="1"></b><a href="https://www.k18hair.com/" onclick="getOutboundLink('https://www.k18hair.com/'); return false;"<b> SEE HOW IT WORKS</h1></b></a> 
+  <br><br>
+  <h2 style="text-align: center;" markdown="1"><b>K18:</b><a href="https://www.k18hair.com/" onclick="getOutboundLink('https://www.k18hair.com/'); return false;"<b> EDUCATE</b><h/2></a>
+  <br><br> 
+  <h2 style="text-align: center;" markdown="1"><b>K18:</b><a href="https://www.k18hair.com/" onclick="getOutboundLink('https://www.k18hair.com/'); return false;"<b> ENLIGHTEN</b></h2></a>
+  <br><br>
+  <h2 style="text-align: center;" markdown="1"><b>K18:</b><a href="https://www.k18hair.com/" onclick="getOutboundLink('https://www.k18hair.com/'); return false;"<b> EXPLORE</b></h2></a>
+  <br><br>
+  <h2 style="text-align: center;" markdown="1"><b>AUTHENTIC:</b><a href="https://www.k18hair.com/" onclick="getOutboundLink('https://www.k18hair.com/'); return false;"<b> DISCOVER</b></h2></a> 
+  <br><br>
+  <h2 style="text-align: center;" markdown="1"><b>TRY K18; SPECIAL GIFT:</b><a href="https://www.k18hair.com/" onclick="getOutboundLink('https://www.k18hair.com/'); return false;"<b> USE CODE: AQUIS</b></h2></a> 
+  <br><br>
+theme: jekyll-theme-minimal
+# Google Analytics
+google_analytics: UA-00000000-0 
